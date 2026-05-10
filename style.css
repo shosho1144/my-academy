@@ -1,0 +1,38 @@
+body {
+    background-color: #0f172a; /* لون كحلي غامق فخم */
+    color: #ffffff;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    color: #38bdf8; /* أزرق نيون */
+    text-shadow: 0 0 10px #38bdf8;
+}
+
+input {
+    background: transparent;
+    border: 2px solid #ec4899;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    width: 200px;
+    outline: none;
+}
+
+button {
+    background: linear-gradient(45deg, #ec4899, #8b5cf6); /* تدرج وردي وبنفسجي */
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#welcome-msg {
+    margin-top: 20px;
+    color: #fbbf24;
+}
